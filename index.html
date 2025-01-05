@@ -1,0 +1,102 @@
+<!DOCTYPE html>  
+<html lang="pl">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>ROBOCOP GRZEGORZ GAWEŁ</title>  
+    <style>  
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #eef6f9; color: #333; }  
+        header { background-color: #4caf50; color: white; text-align: center; padding: 20px 10px; }  
+        header h1 { margin: 0; font-size: 2.8em; }  
+        nav { margin-top: 10px; }  
+        nav a { color: white; text-decoration: none; margin: 0 15px; font-size: 1.1em; font-weight: bold; }  
+        nav a:hover { text-decoration: underline; }  
+        section { padding: 20px; max-width: 900px; margin: auto; background-color: #ffffff; margin-bottom: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); }  
+        h2 { color: #4caf50; border-bottom: 2px solid #4caf50; padding-bottom: 5px; }  
+        ul { list-style-type: disc; margin-left: 20px; }  
+        footer { background-color: #4caf50; color: #fff; text-align: center; padding: 15px 0; }  
+        .contact a { color: #4caf50; text-decoration: none; }  
+        .contact a:hover { text-decoration: underline; }  
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }  
+        table th, table td { border: 1px solid #ddd; padding: 8px; text-align: left; }  
+        table th { background-color: #4caf50; color: white; }  
+    </style>  
+</head>  
+<body>  
+    <header>  
+        <h1>ROBOCOP GRZEGORZ GAWEŁ</h1>  
+        <p>Tworzymy zieloną przestrzeń i bezpieczne środowisko – profesjonalizm i jakość</p>  
+        <nav>  
+            <a href="#o-firmie">O firmie</a>  
+            <a href="#uslugi">Usługi</a>  
+            <a href="#cennik">Cennik</a>  
+            <a href="#kontakt">Kontakt</a>  
+        </nav>  
+    </header>  
+
+    <section id="o-firmie">  
+        <h2>O firmie</h2>  
+        <p>Firma <strong>ROBOCOP GRZEGORZ GAWEŁ</strong> została założona w 2024 roku z pasji do tworzenia pięknych i bezpiecznych przestrzeni. Naszym celem jest dostarczanie najwyższej jakości usług w zakresie pielęgnacji zieleni oraz prac remontowo-wykończeniowych. Nasza firma liczy 10 wykwalifikowanych specjalistów, którzy regularnie podnoszą swoje kwalifikacje, aby sprostać wymaganiom klientów i zapewnić pełne zadowolenie z naszych usług.</p>  
+        <p>Współpracujemy z renomowanymi firmami zajmującymi się instalacjami wodno-kanalizacyjnymi, co pozwala nam realizować kompleksowe projekty. Dbamy o bezpieczeństwo naszych pracowników, klientów i otoczenia – wszystkie nasze działania są zgodne z przepisami BHP, a wykorzystywany sprzęt jest regularnie serwisowany i spełnia najwyższe standardy bezpieczeństwa.</p>  
+    </section>  
+
+    <section id="uslugi">  
+        <h2>Nasze usługi</h2>  
+        <p>Świadczymy szeroki zakres usług, dostosowanych do potrzeb zarówno klientów indywidualnych, jak i firm. Nasze podejście łączy nowoczesne technologie z tradycyjnymi metodami, aby zapewnić trwałe i estetyczne efekty.</p>  
+        <ul>  
+            <li><strong>Wycinka drzew:</strong> Bezpieczna wycinka drzew każdej wysokości, także w trudnych warunkach terenowych, z użyciem podnośników koszowych.</li>  
+            <li><strong>Koszenie trawy:</strong> Profesjonalne koszenie dużych powierzchni (np. trawniki miejskie, boiska) oraz pielęgnacja trawników przydomowych.</li>  
+            <li><strong>Rebakowanie:</strong> Usuwanie i przetwarzanie gałęzi na zrębki z użyciem nowoczesnych rebaków.</li>  
+            <li><strong>Frezowanie pni:</strong> Usuwanie pni drzew bez naruszania otoczenia – idealne rozwiązanie dla terenów zieleni i ogrodów.</li>  
+            <li><strong>Prace remontowe:</strong> Malowanie, szpachlowanie, układanie podłóg, prace wykończeniowe w lokalach użytkowych i mieszkaniach.</li>  
+            <li><strong>Wykorzystywany sprzęt:</strong> Posiadamy nowoczesne traktory, kosiarki, piły spalinowe, podnośniki koszowe i frezarki, co pozwala nam na efektywną i bezpieczną realizację każdego projektu.</li>  
+        </ul>  
+    </section>  
+
+    <section id="cennik">  
+        <h2>Cennik orientacyjny</h2>  
+        <table>  
+            <thead>  
+                <tr>  
+                    <th>Usługa</th>  
+                    <th>Cena (orientacyjna)</th>  
+                </tr>  
+            </thead>  
+            <tbody>  
+                <tr>  
+                    <td>Wycinka drzew (wysokość do 10m)</td>  
+                    <td>Od 500 zł</td>  
+                </tr>  
+                <tr>  
+                    <td>Koszenie trawy (1 ha)</td>  
+                    <td>Od 100 zł</td>  
+                </tr>  
+                <tr>  
+                    <td>Rebakowanie gałęzi (1 m³)</td>  
+                    <td>Od 300 zł</td>  
+                </tr>  
+                <tr>  
+                    <td>Frezowanie pni (średnica do 50 cm)</td>  
+                    <td>Od 400 zł</td>  
+                </tr>  
+                <tr>  
+                    <td>Prace remontowe (m²)</td>  
+                    <td>Od 80 zł</td>  
+                </tr>  
+            </tbody>  
+        </table>  
+        <p>* Ceny zależą od zakresu prac, warunków terenowych oraz dostępności sprzętu.</p>  
+    </section>  
+
+    <section id="kontakt">  
+        <h2>Kontakt</h2>  
+        <p class="contact">E-mail: <a href="mailto:robocopggziel@gmail.com">robocopggziel@gmail.com</a></p>  
+        <p class="contact">Telefon: <a href="tel:501818472">501 818 472</a></p>  
+        <p>Zapraszamy do kontaktu – chętnie odpowiemy na wszystkie pytania i przygotujemy indywidualną ofertę!</p>  
+    </section>  
+
+    <footer>  
+        <p>&copy; 2025 ROBOCOP GRZEGORZ GAWEŁ. Wszystkie prawa zastrzeżone.</p>  
+    </footer>  
+</body>  
+</html>
