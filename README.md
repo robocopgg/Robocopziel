@@ -85,7 +85,21 @@
                 </tr>  
             </tbody>  
         </table>  
-        <p>* Ceny zależą od zakresu prac, warunków terenowych oraz dostępności sprzętu.</p>  
+        <p>* Ceny zależą od zakresu prac, warunków terenowych oraz![1000013545](https://github.com/user-attachments/assets/374b6e3c-1c75-4012-9f5d-e8dfd1ff2928)
+![1000013546](https://github.com/user-attachments/assets/6a7faa57-be2c-419c-8b2e-3bbbba4eee0e)
+![1000013547](https://github.com/user-attachments/assets/ed3dcc82-fcb9-425b-a480-5d3a8a50186f)
+![1000013550](https://github.com/user-attachments/assets/ee4f1127-0c3a-4777-ab6a-27d36881e3b0)
+![1000013551](https://github.com/user-attachments/assets/87cccebb-bc63-47e7-85ae-b5cad70b7f4b)
+![1000013549](https://github.com/user-attachments/assets/6a54732c-17de-49e2-b22d-71cc065aaf45)
+![1000013548](https://github.com/user-attachments/assets/d1996aaf-0aa0-4ad5-8beb-2768193c663e)
+![1000013557](https://github.com/user-attachments/assets/379bc706-dab4-4839-96c0-d4c8ebbe4bab)
+![1000013558](https://github.com/user-attachments/assets/6017b7da-8967-445f-b377-94014b69b47d)
+![1000013556](https://github.com/user-attachments/assets/15995806-619b-4cd9-bd27-15502abd3cd3)
+![1000013553](https://github.com/user-attachments/assets/9ad8b84b-e9d0-4d6a-a88d-b122c5617cae)
+![1000013554](https://github.com/user-attachments/assets/e5501844-b9c1-4e5a-9f77-605f3b553723)
+![1000013552](https://github.com/user-attachments/assets/95f95ea6-897e-48e9-b726-eea2fc9dafdb)
+![1000013555](https://github.com/user-attachments/assets/ab7b369f-c98f-4528-b87f-acc099837f2a)
+ dostępności sprzętu.</p>  
     </section>  
 
     <section id="kontakt">  
